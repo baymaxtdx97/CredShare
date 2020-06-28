@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86944088862",
+    "firebase_url": "https://credshare-7de7e.firebaseio.com",
+    "project_id": "credshare-7de7e",
+    "storage_bucket": "credshare-7de7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86944088862:android:97c0742a4bd33815",
+        "android_client_info": {
+          "package_name": "com.example.credshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86944088862-tj99kg9an1bb6kkvc377tcs1h7ls6t52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNLaZcyn3dfmZBOkgbwCeg21mqg3EUwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86944088862-tj99kg9an1bb6kkvc377tcs1h7ls6t52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
